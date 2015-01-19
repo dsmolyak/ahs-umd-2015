@@ -1,0 +1,38 @@
+Word ladder from abc to bdd: abc --> abd --> acd --> bcd --> bdd
+No word ladder from abc to xyz using the input dictionary.
+Word ladder from man to how: man --> ban --> bon --> bow --> how
+Word ladder from man to ban: man --> ban
+Word ladder from ban to yow: ban --> baw --> bow --> yow
+Word ladder from map to ape: map --> bap --> bae --> bye --> aye --> ape
+Word ladder from ach to zoo: ach --> ace --> ale --> alo --> blo --> boo --> zoo
+Word ladder from abu to yet: abu --> aba --> aha --> kha --> kea --> ket --> yet
+Word ladder from copy to bolt: copy --> cope --> core --> cord --> cold --> bold --> bolt
+Word ladder from dock to trim: dock --> duck --> buck --> bulk --> bull --> ball --> mall --> mail --> main --> gain --> grin --> grip --> trip --> trim
+Word ladder from spit to till: spit --> shit --> ship --> slip --> slap --> soap --> soak --> sock --> sick --> silk --> milk --> mill --> till
+Word ladder from slot to fish: slot --> shot --> shit --> ship --> chip --> chin --> coin --> corn --> cord --> card --> cart --> cast --> fast --> fist --> fish
+Word ladder from bulk to goat: bulk --> bull --> bell --> belt --> beat --> boat --> goat
+Word ladder from clay to what: clay --> play --> pray --> tray --> trap --> trip --> grip --> grin --> gain --> main --> mail --> mall --> male --> make --> cake --> care --> core --> corn --> coin --> chin --> thin --> than --> that --> what
+Word ladder from know to plan: know --> snow --> show --> shop --> ship --> slip --> slap --> soap --> soup --> soul --> soil --> sail --> mail --> main --> gain --> grin --> grip --> trip --> trap --> tray --> pray --> play --> plan
+Word ladder from plan to what: plan --> play --> pray --> tray --> trap --> trip --> grip --> grin --> gain --> main --> mail --> mall --> male --> make --> cake --> care --> core --> corn --> coin --> chin --> thin --> than --> that --> what
+No word ladder from bath to user using the input dictionary.
+No word ladder from lawn to bowl using the input dictionary.
+Word ladder from cheer to steak: cheer --> sheer --> steer --> steel --> steal --> steak
+No word ladder from genre to merit using the input dictionary.
+No word ladder from chunk to wound using the input dictionary.
+Word ladder from clock to flood: clock --> block --> black --> blank --> blink --> blind --> blond --> blood --> flood
+Word ladder from lover to towel: lover --> lower --> tower --> towel
+Word ladder from brick to crack: brick --> trick --> track --> crack
+Word ladder from sport to shade: sport --> short --> shore --> share --> shade
+No word ladder from spark to blond using the input dictionary.
+Word ladder from store to shift: store --> shore --> short --> shirt --> shift
+Word ladder from frown to drown: frown --> drown
+Word ladder from drink to thank: drink --> drunk --> trunk --> truck --> trick --> thick --> think --> thank
+Word ladder from sport to shade: sport --> short --> shore --> share --> shade
+Word ladder from frown to drown: frown --> drown
+Word ladder from brave to thank: brave --> grave --> grace --> trace --> track --> trick --> thick --> think --> thank
+Word ladder from click to floor: click --> clock --> block --> black --> blank --> blink --> blind --> blond --> blood --> flood --> floor
+No word ladder from sunny to swell using the input dictionary.
+No word ladder from bride to weave using the input dictionary.
+No word ladder from rough to short using the input dictionary.
+No word ladder from right to towel using the input dictionary.
+Word ladder from click to flour: click --> clock --> block --> black --> blank --> blink --> blind --> blond --> blood --> flood --> floor --> flour

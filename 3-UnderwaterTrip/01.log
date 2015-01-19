@@ -1,0 +1,9 @@
+Case: 1
+Sequence >>>> Reached end of tunnel
+Sequence >v>> Reached end of tunnel
+Sequence >v^^ Reached end of tunnel
+Sequence v>vv Reached end of tunnel
+Case: 2
+Sequence >>>> Reached end of tunnel
+Sequence >v>> Reached end of tunnel
+Sequence v>vv Reached end of tunnel

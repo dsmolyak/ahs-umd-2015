@@ -1,0 +1,19 @@
+Case: 1
+Saw 10 sharks for sequence >v>> 
+Saw 10 sharks on path >v>> 
+          0    1    2    3    4
+      ----+----+----+----+----+
+   0:     -    -               
+   1:             -10    -    -
+   2:                          
+      ----+----+----+----+----+
+Case: 2
+Saw 6 sharks for sequence >v^v 
+Saw 6 sharks on path >v^v 
+          0    1    2    3    4
+      ----+----+----+----+----+
+   0:     -    -    3    -     
+   1:              -4    X   -2
+   2:          6    X    X     
+      ----+----+----+----+----+
+

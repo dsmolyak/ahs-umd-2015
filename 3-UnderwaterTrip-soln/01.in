@@ -1,0 +1,93 @@
+10
+Tunnel depth 3 length 5 
+	0 stalagmites
+	4 sequences
+		>>>>
+		>v>>
+		>v^^
+		v>vv
+		
+Tunnel depth 3 length 5 
+	2 stalagmites
+		1 meter stalagmite 2 meters distant
+		2 meter stalagmite 3 meters distant
+	3 sequences
+		>>>>
+		>v>>
+		v>vv
+		
+Tunnel depth 6 length 10 
+	0 stalagmites
+	4 sequences
+		>v>>>>>^>
+		v>v>v>vvv
+		vv>>>^^^^
+		vvvv^^v^^
+		
+Tunnel depth 6 length 10 
+	1 stalagmites
+		2 meter stalagmite 3 meters distant
+	4 sequences
+		>v>>>>>^>
+		v>v>v>vvv
+		vv>>>^^^^
+		vvvv^^v^^
+		
+Tunnel depth 6 length 10 
+	2 stalagmites
+		2 meter stalagmite 5 meters distant
+		4 meter stalagmite 3 meters distant
+	4 sequences
+		>v>>>>>^>
+		v>v>v>vvv
+		vv>>>^^^^
+		vvvv^^v^^
+		
+Tunnel depth 6 length 10 
+	1 stalagmites
+		2 meter stalagmite 6 meters distant
+	4 sequences
+		>v>>>>>^>
+		v>v>v>vvv
+		vv>>>^^^^
+		vvvv^^v^^
+		
+Tunnel depth 6 length 10 
+	2 stalagmites
+		2 meter stalagmite 5 meters distant
+		3 meter stalagmite 6 meters distant
+	4 sequences
+		>v>>>>>^>
+		v>v>v>vvv
+		vv>>>^^^^
+		vvvv^^v^^
+		
+Tunnel depth 6 length 10 
+	1 stalagmites
+		6 meter stalagmite 7 meters distant
+	4 sequences
+		>v>>>>>^>
+		v>v>v>vvv
+		vv>>>^^^^
+		vvvv^^v^^
+		
+Tunnel depth 6 length 10 
+	1 stalagmites
+		2 meter stalagmite 2 meters distant
+	4 sequences
+		>v>>>>>^>
+		v>v>v>vvv
+		vv>>>^^^^
+		vvvv^^v^^
+		
+Tunnel depth 6 length 10 
+	4 stalagmites
+		4 meter stalagmite 1 meters distant
+		5 meter stalagmite 9 meters distant
+		2 meter stalagmite 5 meters distant
+		3 meter stalagmite 6 meters distant
+	4 sequences
+		>v>>>>>^>
+		v>v>v>vvv
+		vv>>>^^^^
+		vvvv^^v^^

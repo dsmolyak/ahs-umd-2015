@@ -1,0 +1,49 @@
+Case: 1
+Sequence >>>> Reached end of tunnel
+Sequence >v>> Reached end of tunnel
+Sequence >v^^ Crashed into tunnel ceiling
+Sequence v>vv Crashed into tunnel floor
+Case: 2
+Sequence >>>> Reached end of tunnel
+Sequence >v>> Crashed into stalagmite
+Sequence v>vv Crashed into stalagmite
+Case: 3
+Sequence >v>>>>>^> Reached end of tunnel
+Sequence v>v>v>vvv Crashed into tunnel floor
+Sequence vv>>>^^^^ Crashed into tunnel ceiling
+Sequence vvvv^^v^^ Reached end of tunnel
+Case: 4
+Sequence >v>>>>>^> Reached end of tunnel
+Sequence v>v>v>vvv Crashed into tunnel floor
+Sequence vv>>>^^^^ Crashed into tunnel ceiling
+Sequence vvvv^^v^^ Reached end of tunnel
+Case: 5
+Sequence >v>>>>>^> Reached end of tunnel
+Sequence v>v>v>vvv Crashed into stalagmite
+Sequence vv>>>^^^^ Crashed into stalagmite
+Sequence vvvv^^v^^ Crashed into stalagmite
+Case: 6
+Sequence >v>>>>>^> Reached end of tunnel
+Sequence v>v>v>vvv Crashed into tunnel floor
+Sequence vv>>>^^^^ Crashed into tunnel ceiling
+Sequence vvvv^^v^^ Reached end of tunnel
+Case: 7
+Sequence >v>>>>>^> Reached end of tunnel
+Sequence v>v>v>vvv Crashed into stalagmite
+Sequence vv>>>^^^^ Crashed into tunnel ceiling
+Sequence vvvv^^v^^ Reached end of tunnel
+Case: 8
+Sequence >v>>>>>^> Crashed into stalagmite
+Sequence v>v>v>vvv Crashed into stalagmite
+Sequence vv>>>^^^^ Crashed into stalagmite
+Sequence vvvv^^v^^ Crashed into stalagmite
+Case: 9
+Sequence >v>>>>>^> Reached end of tunnel
+Sequence v>v>v>vvv Crashed into tunnel floor
+Sequence vv>>>^^^^ Crashed into tunnel ceiling
+Sequence vvvv^^v^^ Reached end of tunnel
+Case: 10
+Sequence >v>>>>>^> Reached end of tunnel
+Sequence v>v>v>vvv Crashed into stalagmite
+Sequence vv>>>^^^^ Crashed into tunnel ceiling
+Sequence vvvv^^v^^ Crashed into stalagmite

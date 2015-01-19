@@ -1,0 +1,9 @@
+Case: 1
+Sequence >>>> Reached end of tunnel
+Sequence >v>> Reached end of tunnel
+Sequence >v^^ Crashed into tunnel ceiling
+Sequence v>vv Crashed into tunnel floor
+Case: 2
+Sequence >>>> Reached end of tunnel
+Sequence >v>> Crashed into stalagmite
+Sequence v>vv Crashed into stalagmite

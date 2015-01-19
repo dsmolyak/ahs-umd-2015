@@ -1,0 +1,626 @@
+10
+Tunnel depth 3 length 5 
+	0 stalagmites
+	1 sightings
+		10 sharks 2 meters distant 1 meters down
+		
+Tunnel depth 3 length 5 
+	2 stalagmites
+		1 meter stalagmite 2 meters distant
+		2 meter stalagmite 3 meters distant
+	4 sightings
+		4 sharks 2 meters distant 1 meters down
+		3 sharks 2 meters distant 0 meters down
+		2 sharks 4 meters distant 1 meters down
+		6 sharks 1 meters distant 2 meters down
+
+Tunnel depth 6 length 10 
+	0 stalagmites
+	1 sightings
+		10 sharks 5 meters distant 2 meters down
+		
+Tunnel depth 6 length 10 
+	1 stalagmites
+		4 meter stalagmite 8 meters distant
+	1 sightings
+		10 sharks 5 meters distant 2 meters down
+				
+Tunnel depth 6 length 10 
+	2 stalagmites
+		4 meter stalagmite 8 meters distant
+		5 meter stalagmite 4 meters distant
+	3 sightings
+		10 sharks 3 meters distant 5 meters down
+		9 sharks 5 meters distant 4 meters down
+		8 sharks 7 meters distant 5 meters down
+		
+Tunnel depth 6 length 10 
+	1 stalagmites
+		2 meter stalagmite 3 meters distant
+	8 sightings
+		10 sharks 5 meters distant 2 meters down
+		7 sharks 7 meters distant 5 meters down
+		5 sharks 3 meters distant 1 meters down
+		13 sharks 9 meters distant 3 meters down
+		11 sharks 5 meters distant 3 meters down
+		8 sharks 7 meters distant 4 meters down
+		4 sharks 3 meters distant 2 meters down
+		12 sharks 9 meters distant 2 meters down
+		
+Tunnel depth 6 length 10 
+	2 stalagmites
+		2 meter stalagmite 3 meters distant
+		3 meter stalagmite 6 meters distant
+	8 sightings
+		10 sharks 5 meters distant 2 meters down
+		7 sharks 7 meters distant 5 meters down
+		5 sharks 3 meters distant 1 meters down
+		13 sharks 9 meters distant 3 meters down
+		11 sharks 5 meters distant 3 meters down
+		8 sharks 7 meters distant 4 meters down
+		4 sharks 3 meters distant 2 meters down
+		12 sharks 9 meters distant 2 meters down
+		
+Tunnel depth 6 length 10 
+	2 stalagmites
+		2 meter stalagmite 3 meters distant
+		3 meter stalagmite 6 meters distant
+	16 sightings
+		10 sharks 5 meters distant 2 meters down
+		7 sharks 7 meters distant 5 meters down
+		5 sharks 3 meters distant 1 meters down
+		13 sharks 9 meters distant 3 meters down
+		11 sharks 5 meters distant 3 meters down
+		8 sharks 7 meters distant 4 meters down
+		4 sharks 3 meters distant 2 meters down
+		12 sharks 9 meters distant 2 meters down
+		10 sharks 6 meters distant 2 meters down
+		7 sharks 8 meters distant 5 meters down
+		5 sharks 4 meters distant 1 meters down
+		13 sharks 1 meters distant 3 meters down
+		11 sharks 6 meters distant 3 meters down
+		8 sharks 4 meters distant 4 meters down
+		4 sharks 2 meters distant 2 meters down
+		12 sharks 1 meters distant 2 meters down
+		
+Tunnel depth 100 length 1200
+	0 stalagmites
+	260 sightings
+		10 sharks 5 meters distant 2 meters down
+		7  sharks 7 meters distant 5 meters down
+		5  sharks 3 meters distant 1 meters down
+		13 sharks 9 meters distant 3 meters down
+		11 sharks 5 meters distant 3 meters down
+		8  sharks 7 meters distant 4 meters down
+		4  sharks 3 meters distant 2 meters down
+		12 sharks 9 meters distant 2 meters down
+		10 sharks 6 meters distant 2 meters down
+		7  sharks 8 meters distant 5 meters down
+		5  sharks 4 meters distant 1 meters down
+		13 sharks 1 meters distant 3 meters down
+		11 sharks 6 meters distant 3 meters down
+		8  sharks 4 meters distant 4 meters down
+		4  sharks 2 meters distant 2 meters down
+		12 sharks 1 meters distant 2 meters down
+		10 sharks 15 meters distant 2 meters down
+		7  sharks 17 meters distant 5 meters down
+		5  sharks 13 meters distant 1 meters down
+		13 sharks 19 meters distant 3 meters down
+		11 sharks 15 meters distant 3 meters down
+		8  sharks 17 meters distant 4 meters down
+		4  sharks 13 meters distant 2 meters down
+		12 sharks 19 meters distant 2 meters down
+		10 sharks 16 meters distant 2 meters down
+		7  sharks 18 meters distant 5 meters down
+		5  sharks 14 meters distant 1 meters down
+		13 sharks 11 meters distant 3 meters down
+		11 sharks 16 meters distant 3 meters down
+		8  sharks 14 meters distant 4 meters down
+		4  sharks 12 meters distant 2 meters down
+		12 sharks 11 meters distant 2 meters down
+		10 sharks 115 meters distant 2 meters down
+		7  sharks 117 meters distant 5 meters down
+		5  sharks 113 meters distant 1 meters down
+		13 sharks 119 meters distant 3 meters down
+		11 sharks 115 meters distant 3 meters down
+		8  sharks 117 meters distant 4 meters down
+		4  sharks 113 meters distant 2 meters down
+		12 sharks 119 meters distant 2 meters down
+		10 sharks 116 meters distant 2 meters down
+		7  sharks 118 meters distant 5 meters down
+		5  sharks 114 meters distant 1 meters down
+		13 sharks 111 meters distant 3 meters down
+		11 sharks 116 meters distant 3 meters down
+		8  sharks 114 meters distant 4 meters down
+		4  sharks 112 meters distant 2 meters down
+		12 sharks 111 meters distant 2 meters down
+		10 sharks 1115 meters distant 2 meters down
+		7  sharks 1117 meters distant 5 meters down
+		5  sharks 1113 meters distant 1 meters down
+		13 sharks 1119 meters distant 3 meters down
+		11 sharks 1115 meters distant 3 meters down
+		8  sharks 1117 meters distant 4 meters down
+		4  sharks 1113 meters distant 2 meters down
+		12 sharks 1119 meters distant 2 meters down
+		10 sharks 1116 meters distant 2 meters down
+		7  sharks 1118 meters distant 5 meters down
+		5  sharks 1114 meters distant 1 meters down
+		13 sharks 1111 meters distant 3 meters down
+		11 sharks 1116 meters distant 3 meters down
+		8  sharks 1114 meters distant 4 meters down
+		4  sharks 1112 meters distant 2 meters down
+		12 sharks 1111 meters distant 2 meters down
+		10 sharks 1115 meters distant 2 meters down
+		7  sharks 1117 meters distant 5 meters down
+		5  sharks 1113 meters distant 1 meters down
+		13 sharks 1119 meters distant 3 meters down
+		11 sharks 1115 meters distant 3 meters down
+		8  sharks 1117 meters distant 4 meters down
+		4  sharks 1113 meters distant 2 meters down
+		12 sharks 1119 meters distant 2 meters down
+		10 sharks 1116 meters distant 2 meters down
+		7  sharks 1118 meters distant 5 meters down
+		5  sharks 1114 meters distant 1 meters down
+		13 sharks 1111 meters distant 3 meters down
+		11 sharks 1116 meters distant 3 meters down
+		8  sharks 1114 meters distant 4 meters down
+		4  sharks 1112 meters distant 2 meters down
+		12 sharks 1111 meters distant 2 meters down
+		10 sharks 915 meters distant 2 meters down
+		7  sharks 917 meters distant 5 meters down
+		5  sharks 913 meters distant 1 meters down
+		13 sharks 919 meters distant 3 meters down
+		11 sharks 915 meters distant 3 meters down
+		8  sharks 917 meters distant 4 meters down
+		4  sharks 913 meters distant 2 meters down
+		12 sharks 919 meters distant 2 meters down
+		10 sharks 916 meters distant 2 meters down
+		7  sharks 918 meters distant 5 meters down
+		5  sharks 914 meters distant 1 meters down
+		13 sharks 911 meters distant 3 meters down
+		11 sharks 916 meters distant 3 meters down
+		8  sharks 914 meters distant 4 meters down
+		4  sharks 912 meters distant 2 meters down
+		12 sharks 911 meters distant 2 meters down
+		10 sharks 5 meters distant 12 meters down
+		7  sharks 7 meters distant 15 meters down
+		5  sharks 3 meters distant 11 meters down
+		13 sharks 9 meters distant 13 meters down
+		11 sharks 5 meters distant 13 meters down
+		8  sharks 7 meters distant 14 meters down
+		4  sharks 3 meters distant 12 meters down
+		12 sharks 9 meters distant 12 meters down
+		10 sharks 6 meters distant 12 meters down
+		7  sharks 8 meters distant 15 meters down
+		5  sharks 4 meters distant 11 meters down
+		13 sharks 1 meters distant 13 meters down
+		11 sharks 6 meters distant 13 meters down
+		8  sharks 4 meters distant 14 meters down
+		4  sharks 2 meters distant 12 meters down
+		12 sharks 1 meters distant 12 meters down
+		10 sharks 15 meters distant 12 meters down
+		7  sharks 17 meters distant 15 meters down
+		5  sharks 13 meters distant 11 meters down
+		13 sharks 19 meters distant 13 meters down
+		11 sharks 15 meters distant 13 meters down
+		8  sharks 17 meters distant 14 meters down
+		4  sharks 13 meters distant 12 meters down
+		12 sharks 19 meters distant 12 meters down
+		10 sharks 16 meters distant 12 meters down
+		7  sharks 18 meters distant 15 meters down
+		5  sharks 14 meters distant 11 meters down
+		13 sharks 11 meters distant 13 meters down
+		11 sharks 16 meters distant 13 meters down
+		8  sharks 14 meters distant 14 meters down
+		4  sharks 12 meters distant 12 meters down
+		12 sharks 11 meters distant 12 meters down
+		10 sharks 115 meters distant 42 meters down
+		7  sharks 117 meters distant 45 meters down
+		5  sharks 113 meters distant 41 meters down
+		13 sharks 119 meters distant 43 meters down
+		11 sharks 115 meters distant 43 meters down
+		8  sharks 117 meters distant 44 meters down
+		4  sharks 113 meters distant 42 meters down
+		12 sharks 119 meters distant 42 meters down
+		10 sharks 116 meters distant 42 meters down
+		7  sharks 118 meters distant 45 meters down
+		5  sharks 114 meters distant 41 meters down
+		13 sharks 111 meters distant 43 meters down
+		11 sharks 116 meters distant 43 meters down
+		8  sharks 114 meters distant 44 meters down
+		4  sharks 112 meters distant 42 meters down
+		12 sharks 111 meters distant 42 meters down
+		10 sharks 115 meters distant 82 meters down
+		7  sharks 117 meters distant 85 meters down
+		5  sharks 113 meters distant 81 meters down
+		13 sharks 119 meters distant 83 meters down
+		11 sharks 115 meters distant 83 meters down
+		8  sharks 117 meters distant 84 meters down
+		4  sharks 113 meters distant 82 meters down
+		12 sharks 119 meters distant 82 meters down
+		10 sharks 116 meters distant 82 meters down
+		7  sharks 118 meters distant 85 meters down
+		5  sharks 114 meters distant 81 meters down
+		13 sharks 111 meters distant 83 meters down
+		11 sharks 116 meters distant 83 meters down
+		8  sharks 114 meters distant 84 meters down
+		4  sharks 112 meters distant 82 meters down
+		12 sharks 111 meters distant 82 meters down
+		10 sharks 1115 meters distant 52 meters down
+		7  sharks 1117 meters distant 55 meters down
+		5  sharks 1113 meters distant 51 meters down
+		13 sharks 1119 meters distant 53 meters down
+		11 sharks 1115 meters distant 53 meters down
+		8  sharks 1117 meters distant 54 meters down
+		4  sharks 1113 meters distant 52 meters down
+		12 sharks 1119 meters distant 52 meters down
+		10 sharks 1116 meters distant 52 meters down
+		7  sharks 1118 meters distant 55 meters down
+		5  sharks 1114 meters distant 51 meters down
+		13 sharks 1111 meters distant 53 meters down
+		11 sharks 1116 meters distant 53 meters down
+		8  sharks 1114 meters distant 54 meters down
+		4  sharks 1112 meters distant 52 meters down
+		12 sharks 1111 meters distant 52 meters down
+		10 sharks 1115 meters distant 22 meters down
+		7  sharks 1117 meters distant 25 meters down
+		5  sharks 1113 meters distant 21 meters down
+		13 sharks 1119 meters distant 23 meters down
+		11 sharks 1115 meters distant 23 meters down
+		8  sharks 1117 meters distant 24 meters down
+		4  sharks 1113 meters distant 22 meters down
+		12 sharks 1119 meters distant 22 meters down
+		10 sharks 1116 meters distant 22 meters down
+		7  sharks 1118 meters distant 25 meters down
+		5  sharks 1114 meters distant 21 meters down
+		13 sharks 1111 meters distant 23 meters down
+		11 sharks 1116 meters distant 53 meters down
+		8  sharks 1114 meters distant 24 meters down
+		4  sharks 1112 meters distant 22 meters down
+		12 sharks 1111 meters distant 22 meters down
+		10 sharks 1115 meters distant 2 meters down
+		7  sharks 1117 meters distant 5 meters down
+		5  sharks 1113 meters distant 1 meters down
+		13 sharks 1119 meters distant 3 meters down
+		11 sharks 1115 meters distant 3 meters down
+		8  sharks 1117 meters distant 4 meters down
+		4  sharks 1113 meters distant 2 meters down
+		12 sharks 1119 meters distant 2 meters down
+		10 sharks 1116 meters distant 2 meters down
+		7  sharks 1118 meters distant 5 meters down
+		5  sharks 1114 meters distant 1 meters down
+		13 sharks 1111 meters distant 3 meters down
+		11 sharks 1116 meters distant 3 meters down
+		8  sharks 1114 meters distant 4 meters down
+		4  sharks 1112 meters distant 2 meters down
+		12 sharks 1111 meters distant 2 meters down
+		10 sharks 1115 meters distant 82 meters down
+		7  sharks 1117 meters distant 85 meters down
+		5  sharks 1113 meters distant 81 meters down
+		13 sharks 1119 meters distant 83 meters down
+		11 sharks 1115 meters distant 83 meters down
+		8  sharks 1117 meters distant 84 meters down
+		4  sharks 1113 meters distant 82 meters down
+		12 sharks 1119 meters distant 82 meters down
+		10 sharks 1116 meters distant 82 meters down
+		7  sharks 1118 meters distant 85 meters down
+		5  sharks 1114 meters distant 81 meters down
+		13 sharks 1111 meters distant 83 meters down
+		11 sharks 1116 meters distant 83 meters down
+		8  sharks 1114 meters distant 84 meters down
+		4  sharks 1112 meters distant 82 meters down
+		12 sharks 1111 meters distant 82 meters down
+		610 sharks 915 meters distant 32 meters down
+		77  sharks 917 meters distant 35 meters down
+		55  sharks 913 meters distant 51 meters down
+		413 sharks 919 meters distant 43 meters down
+		311 sharks 915 meters distant 33 meters down
+		28  sharks 917 meters distant 64 meters down
+		44  sharks 113 meters distant 72 meters down
+		612 sharks 919 meters distant 32 meters down
+		710 sharks 911 meters distant 32 meters down
+		87  sharks 918 meters distant 45 meters down
+		95  sharks 914 meters distant 51 meters down
+		713 sharks 911 meters distant 63 meters down
+		611 sharks 916 meters distant 23 meters down
+		58  sharks 914 meters distant 34 meters down
+		44  sharks 912 meters distant 42 meters down
+		312 sharks 911 meters distant 42 meters down
+		199 sharks 101 meters distant 72 meters down
+		299 sharks 201 meters distant 72 meters down
+		199 sharks 301 meters distant 72 meters down
+		199 sharks 401 meters distant 62 meters down
+		299 sharks 501 meters distant 82 meters down
+		399 sharks 601 meters distant 52 meters down
+		499 sharks 701 meters distant 82 meters down
+		399 sharks 801 meters distant 62 meters down
+		299 sharks 901 meters distant 52 meters down
+		199 sharks 945 meters distant 82 meters down
+		199 sharks 151 meters distant 72 meters down
+		299 sharks 251 meters distant 72 meters down
+		199 sharks 351 meters distant 72 meters down
+		199 sharks 451 meters distant 62 meters down
+		299 sharks 551 meters distant 82 meters down
+		399 sharks 651 meters distant 52 meters down
+		499 sharks 751 meters distant 82 meters down
+		399 sharks 851 meters distant 62 meters down
+		299 sharks 951 meters distant 52 meters down
+		199 sharks 955 meters distant 82 meters down
+		
+Tunnel depth 100 length 1200
+	12 stalagmites
+		90 meter stalagmite 100 meters distant
+		40 meter stalagmite 200 meters distant
+		70 meter stalagmite 300 meters distant
+		80 meter stalagmite 400 meters distant
+		50 meter stalagmite 500 meters distant
+		30 meter stalagmite 600 meters distant
+		30 meter stalagmite 700 meters distant
+		90 meter stalagmite 800 meters distant
+		50 meter stalagmite 900 meters distant
+		20 meter stalagmite 1000 meters distant
+		10 meter stalagmite 1100 meters distant
+		90 meter stalagmite 1180 meters distant
+	260 sightings
+		10 sharks 5 meters distant 2 meters down
+		7  sharks 7 meters distant 5 meters down
+		5  sharks 3 meters distant 1 meters down
+		13 sharks 9 meters distant 3 meters down
+		11 sharks 5 meters distant 3 meters down
+		8  sharks 7 meters distant 4 meters down
+		4  sharks 3 meters distant 2 meters down
+		12 sharks 9 meters distant 2 meters down
+		10 sharks 6 meters distant 2 meters down
+		7  sharks 8 meters distant 5 meters down
+		5  sharks 4 meters distant 1 meters down
+		13 sharks 1 meters distant 3 meters down
+		11 sharks 6 meters distant 3 meters down
+		8  sharks 4 meters distant 4 meters down
+		4  sharks 2 meters distant 2 meters down
+		12 sharks 1 meters distant 2 meters down
+		10 sharks 15 meters distant 2 meters down
+		7  sharks 17 meters distant 5 meters down
+		5  sharks 13 meters distant 1 meters down
+		13 sharks 19 meters distant 3 meters down
+		11 sharks 15 meters distant 3 meters down
+		8  sharks 17 meters distant 4 meters down
+		4  sharks 13 meters distant 2 meters down
+		12 sharks 19 meters distant 2 meters down
+		10 sharks 16 meters distant 2 meters down
+		7  sharks 18 meters distant 5 meters down
+		5  sharks 14 meters distant 1 meters down
+		13 sharks 11 meters distant 3 meters down
+		11 sharks 16 meters distant 3 meters down
+		8  sharks 14 meters distant 4 meters down
+		4  sharks 12 meters distant 2 meters down
+		12 sharks 11 meters distant 2 meters down
+		10 sharks 115 meters distant 2 meters down
+		7  sharks 117 meters distant 5 meters down
+		5  sharks 113 meters distant 1 meters down
+		13 sharks 119 meters distant 3 meters down
+		11 sharks 115 meters distant 3 meters down
+		8  sharks 117 meters distant 4 meters down
+		4  sharks 113 meters distant 2 meters down
+		12 sharks 119 meters distant 2 meters down
+		10 sharks 116 meters distant 2 meters down
+		7  sharks 118 meters distant 5 meters down
+		5  sharks 114 meters distant 1 meters down
+		13 sharks 111 meters distant 3 meters down
+		11 sharks 116 meters distant 3 meters down
+		8  sharks 114 meters distant 4 meters down
+		4  sharks 112 meters distant 2 meters down
+		12 sharks 111 meters distant 2 meters down
+		10 sharks 1115 meters distant 2 meters down
+		7  sharks 1117 meters distant 5 meters down
+		5  sharks 1113 meters distant 1 meters down
+		13 sharks 1119 meters distant 3 meters down
+		11 sharks 1115 meters distant 3 meters down
+		8  sharks 1117 meters distant 4 meters down
+		4  sharks 1113 meters distant 2 meters down
+		12 sharks 1119 meters distant 2 meters down
+		10 sharks 1116 meters distant 2 meters down
+		7  sharks 1118 meters distant 5 meters down
+		5  sharks 1114 meters distant 1 meters down
+		13 sharks 1111 meters distant 3 meters down
+		11 sharks 1116 meters distant 3 meters down
+		8  sharks 1114 meters distant 4 meters down
+		4  sharks 1112 meters distant 2 meters down
+		12 sharks 1111 meters distant 2 meters down
+		10 sharks 1115 meters distant 2 meters down
+		7  sharks 1117 meters distant 5 meters down
+		5  sharks 1113 meters distant 1 meters down
+		13 sharks 1119 meters distant 3 meters down
+		11 sharks 1115 meters distant 3 meters down
+		8  sharks 1117 meters distant 4 meters down
+		4  sharks 1113 meters distant 2 meters down
+		12 sharks 1119 meters distant 2 meters down
+		10 sharks 1116 meters distant 2 meters down
+		7  sharks 1118 meters distant 5 meters down
+		5  sharks 1114 meters distant 1 meters down
+		13 sharks 1111 meters distant 3 meters down
+		11 sharks 1116 meters distant 3 meters down
+		8  sharks 1114 meters distant 4 meters down
+		4  sharks 1112 meters distant 2 meters down
+		12 sharks 1111 meters distant 2 meters down
+		10 sharks 915 meters distant 2 meters down
+		7  sharks 917 meters distant 5 meters down
+		5  sharks 913 meters distant 1 meters down
+		13 sharks 919 meters distant 3 meters down
+		11 sharks 915 meters distant 3 meters down
+		8  sharks 917 meters distant 4 meters down
+		4  sharks 913 meters distant 2 meters down
+		12 sharks 919 meters distant 2 meters down
+		10 sharks 916 meters distant 2 meters down
+		7  sharks 918 meters distant 5 meters down
+		5  sharks 914 meters distant 1 meters down
+		13 sharks 911 meters distant 3 meters down
+		11 sharks 916 meters distant 3 meters down
+		8  sharks 914 meters distant 4 meters down
+		4  sharks 912 meters distant 2 meters down
+		12 sharks 911 meters distant 2 meters down
+		10 sharks 5 meters distant 12 meters down
+		7  sharks 7 meters distant 15 meters down
+		5  sharks 3 meters distant 11 meters down
+		13 sharks 9 meters distant 13 meters down
+		11 sharks 5 meters distant 13 meters down
+		8  sharks 7 meters distant 14 meters down
+		4  sharks 3 meters distant 12 meters down
+		12 sharks 9 meters distant 12 meters down
+		10 sharks 6 meters distant 12 meters down
+		7  sharks 8 meters distant 15 meters down
+		5  sharks 4 meters distant 11 meters down
+		13 sharks 1 meters distant 13 meters down
+		11 sharks 6 meters distant 13 meters down
+		8  sharks 4 meters distant 14 meters down
+		4  sharks 2 meters distant 12 meters down
+		12 sharks 1 meters distant 12 meters down
+		10 sharks 15 meters distant 12 meters down
+		7  sharks 17 meters distant 15 meters down
+		5  sharks 13 meters distant 11 meters down
+		13 sharks 19 meters distant 13 meters down
+		11 sharks 15 meters distant 13 meters down
+		8  sharks 17 meters distant 14 meters down
+		4  sharks 13 meters distant 12 meters down
+		12 sharks 19 meters distant 12 meters down
+		10 sharks 16 meters distant 12 meters down
+		7  sharks 18 meters distant 15 meters down
+		5  sharks 14 meters distant 11 meters down
+		13 sharks 11 meters distant 13 meters down
+		11 sharks 16 meters distant 13 meters down
+		8  sharks 14 meters distant 14 meters down
+		4  sharks 12 meters distant 12 meters down
+		12 sharks 11 meters distant 12 meters down
+		10 sharks 115 meters distant 42 meters down
+		7  sharks 117 meters distant 45 meters down
+		5  sharks 113 meters distant 41 meters down
+		13 sharks 119 meters distant 43 meters down
+		11 sharks 115 meters distant 43 meters down
+		8  sharks 117 meters distant 44 meters down
+		4  sharks 113 meters distant 42 meters down
+		12 sharks 119 meters distant 42 meters down
+		10 sharks 116 meters distant 42 meters down
+		7  sharks 118 meters distant 45 meters down
+		5  sharks 114 meters distant 41 meters down
+		13 sharks 111 meters distant 43 meters down
+		11 sharks 116 meters distant 43 meters down
+		8  sharks 114 meters distant 44 meters down
+		4  sharks 112 meters distant 42 meters down
+		12 sharks 111 meters distant 42 meters down
+		10 sharks 115 meters distant 82 meters down
+		7  sharks 117 meters distant 85 meters down
+		5  sharks 113 meters distant 81 meters down
+		13 sharks 119 meters distant 83 meters down
+		11 sharks 115 meters distant 83 meters down
+		8  sharks 117 meters distant 84 meters down
+		4  sharks 113 meters distant 82 meters down
+		12 sharks 119 meters distant 82 meters down
+		10 sharks 116 meters distant 82 meters down
+		7  sharks 118 meters distant 85 meters down
+		5  sharks 114 meters distant 81 meters down
+		13 sharks 111 meters distant 83 meters down
+		11 sharks 116 meters distant 83 meters down
+		8  sharks 114 meters distant 84 meters down
+		4  sharks 112 meters distant 82 meters down
+		12 sharks 111 meters distant 82 meters down
+		10 sharks 1115 meters distant 52 meters down
+		7  sharks 1117 meters distant 55 meters down
+		5  sharks 1113 meters distant 51 meters down
+		13 sharks 1119 meters distant 53 meters down
+		11 sharks 1115 meters distant 53 meters down
+		8  sharks 1117 meters distant 54 meters down
+		4  sharks 1113 meters distant 52 meters down
+		12 sharks 1119 meters distant 52 meters down
+		10 sharks 1116 meters distant 52 meters down
+		7  sharks 1118 meters distant 55 meters down
+		5  sharks 1114 meters distant 51 meters down
+		13 sharks 1111 meters distant 53 meters down
+		11 sharks 1116 meters distant 53 meters down
+		8  sharks 1114 meters distant 54 meters down
+		4  sharks 1112 meters distant 52 meters down
+		12 sharks 1111 meters distant 52 meters down
+		10 sharks 1115 meters distant 22 meters down
+		7  sharks 1117 meters distant 25 meters down
+		5  sharks 1113 meters distant 21 meters down
+		13 sharks 1119 meters distant 23 meters down
+		11 sharks 1115 meters distant 23 meters down
+		8  sharks 1117 meters distant 24 meters down
+		4  sharks 1113 meters distant 22 meters down
+		12 sharks 1119 meters distant 22 meters down
+		10 sharks 1116 meters distant 22 meters down
+		7  sharks 1118 meters distant 25 meters down
+		5  sharks 1114 meters distant 21 meters down
+		13 sharks 1111 meters distant 23 meters down
+		11 sharks 1116 meters distant 53 meters down
+		8  sharks 1114 meters distant 24 meters down
+		4  sharks 1112 meters distant 22 meters down
+		12 sharks 1111 meters distant 22 meters down
+		10 sharks 1115 meters distant 2 meters down
+		7  sharks 1117 meters distant 5 meters down
+		5  sharks 1113 meters distant 1 meters down
+		13 sharks 1119 meters distant 3 meters down
+		11 sharks 1115 meters distant 3 meters down
+		8  sharks 1117 meters distant 4 meters down
+		4  sharks 1113 meters distant 2 meters down
+		12 sharks 1119 meters distant 2 meters down
+		10 sharks 1116 meters distant 2 meters down
+		7  sharks 1118 meters distant 5 meters down
+		5  sharks 1114 meters distant 1 meters down
+		13 sharks 1111 meters distant 3 meters down
+		11 sharks 1116 meters distant 3 meters down
+		8  sharks 1114 meters distant 4 meters down
+		4  sharks 1112 meters distant 2 meters down
+		12 sharks 1111 meters distant 2 meters down
+		10 sharks 1115 meters distant 82 meters down
+		7  sharks 1117 meters distant 85 meters down
+		5  sharks 1113 meters distant 81 meters down
+		13 sharks 1119 meters distant 83 meters down
+		11 sharks 1115 meters distant 83 meters down
+		8  sharks 1117 meters distant 84 meters down
+		4  sharks 1113 meters distant 82 meters down
+		12 sharks 1119 meters distant 82 meters down
+		10 sharks 1116 meters distant 82 meters down
+		7  sharks 1118 meters distant 85 meters down
+		5  sharks 1114 meters distant 81 meters down
+		13 sharks 1111 meters distant 83 meters down
+		11 sharks 1116 meters distant 83 meters down
+		8  sharks 1114 meters distant 84 meters down
+		4  sharks 1112 meters distant 82 meters down
+		12 sharks 1111 meters distant 82 meters down
+		610 sharks 915 meters distant 32 meters down
+		77  sharks 917 meters distant 35 meters down
+		55  sharks 913 meters distant 51 meters down
+		413 sharks 919 meters distant 43 meters down
+		311 sharks 915 meters distant 33 meters down
+		28  sharks 917 meters distant 64 meters down
+		44  sharks 113 meters distant 72 meters down
+		612 sharks 919 meters distant 32 meters down
+		710 sharks 911 meters distant 32 meters down
+		87  sharks 918 meters distant 45 meters down
+		95  sharks 914 meters distant 51 meters down
+		713 sharks 911 meters distant 63 meters down
+		611 sharks 916 meters distant 23 meters down
+		58  sharks 914 meters distant 34 meters down
+		44  sharks 912 meters distant 42 meters down
+		312 sharks 911 meters distant 42 meters down
+		199 sharks 101 meters distant 72 meters down
+		299 sharks 201 meters distant 72 meters down
+		199 sharks 301 meters distant 72 meters down
+		199 sharks 401 meters distant 62 meters down
+		299 sharks 501 meters distant 82 meters down
+		399 sharks 601 meters distant 52 meters down
+		499 sharks 701 meters distant 82 meters down
+		399 sharks 801 meters distant 62 meters down
+		299 sharks 901 meters distant 52 meters down
+		199 sharks 945 meters distant 82 meters down
+		199 sharks 151 meters distant 72 meters down
+		299 sharks 251 meters distant 72 meters down
+		199 sharks 351 meters distant 72 meters down
+		199 sharks 451 meters distant 62 meters down
+		299 sharks 551 meters distant 82 meters down
+		399 sharks 651 meters distant 52 meters down
+		499 sharks 751 meters distant 82 meters down
+		399 sharks 851 meters distant 62 meters down
+		299 sharks 951 meters distant 52 meters down
+		199 sharks 955 meters distant 82 meters down
+		
+		
